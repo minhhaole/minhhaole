@@ -1,13 +1,8 @@
-### Hi there 👋
-
-<!--
-**minhhaole/minhhaole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🔭 Minh-Hao's Portfolio 
 
 Welcome to my portfolio, where I document my projects in the data field :) 
 
- ** ## ⚡ Table of Contents
+ ## ⚡ Table of Contents
 - [SQL](#sql)
 - [PowerBI](#powerbi)
 
