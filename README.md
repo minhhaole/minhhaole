@@ -19,7 +19,7 @@ Welcome to my portfolio, where I document my projects in the data field :)
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📺 [Netflix] (https://github.com/minhhaole/Netflix-Data-Visualization) | I visualised key insights on a dashboard using PowerBI with Netflix data including top 10 countries consuming the platform, timeline of TV shows and movie released, the top genres and more. The data portrays all the content added on the platform from 2008 to 2021. The purpose of this dataset is to demonstrate my skills to visualize data on Power BI. | [Dashboard](Paste Link) |
+| 📺 [Netflix Insights](https://github.com/minhhaole/Netflix-Data-Visualization) | I visualised key insights on a dashboard using PowerBI with Netflix data including top 10 countries consuming the platform, timeline of TV shows and movie released, the top genres and more. The data portrays all the content added on the platform from 2008 to 2021. The purpose of this dataset is to demonstrate my skills to visualize data on Power BI. | [Dashboard](Paste Link) |
 
 
 ***
