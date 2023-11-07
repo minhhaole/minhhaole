@@ -10,9 +10,9 @@ Welcome to my portfolio, where I document my projects in the data field :)
 
 | Project Link | Concepts | Project Description | 
 |---|---|---|
-| 🏠 [Nashville Housing](https://github.com/minhhaole/Data-Portfolio) | Data cleaning, Data analysis | This repo contains SQL queries I have used to clean the data related to Nashville housing in MS SQL. I followed Alex Freberg's video for this project [Portfolio Project | Data Cleaning in SQL] (https://www.youtube.com/watch?v=8rO7ztF4NtU&ab_channel=AlexTheAnalyst). |  
-| 🌟 [SQL 8 Weeks Challenge](https://github.com/minhhaole/SQL-8-Weeks-Challenge) | Data analysis, data cleaning, data transformation | This repo contains all the SQL queries I have learned from the Udemy courses on Data analystics. The dataset pertains to employees. It showcases my proficiency in SQL query writing and problem solving skills. I used MySQL Workbench. |
-| 🏫 [SQL Queries](https://github.com/minhhaole/SQL-Queries---Udemy) | Data analysis, data cleaning, data transformation | This repo contains cases from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com), improving my probleme-solving skills. |
+| 🏠 [Nashville Housing](https://github.com/minhhaole/Data-Portfolio) | Data cleaning/analysis | This repo contains SQL queries I have used to clean the data related to Nashville housing in MS SQL. I followed Alex Freberg's video for this project [Portfolio Project | Data Cleaning in SQL] (https://www.youtube.com/watch?v=8rO7ztF4NtU&ab_channel=AlexTheAnalyst). |  
+| 🌟 [SQL 8 Weeks Challenge](https://github.com/minhhaole/SQL-8-Weeks-Challenge) | Data analysis/cleaning/transformation | This repo contains cases from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com), testing and improving my problem-solving skills using SQL. |
+| 🏫 [SQL Queries](https://github.com/minhhaole/SQL-Queries---Udemy) | Data analysis/cleaning/transformation | This repo contains all the SQL queries I have learned from the Udemy courses on Data analystics. The dataset pertains to employees. It showcases my proficiency in SQL query writing and problem solving skills. I used MySQL Workbench. |
 
 
 ***
