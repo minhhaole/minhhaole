@@ -4,7 +4,7 @@ Welcome to my portfolio, where I document my projects in the data field :)
 
  ## ⚡ Table of Contents
 - [SQL](#sql)
-- [PowerBI](#powerbi)
+- [Data Visualization](#dataviz)
 
 # SQL
 
@@ -17,11 +17,11 @@ Welcome to my portfolio, where I document my projects in the data field :)
 
 ***
 
-# PowerBI
+# Data Visualization
 
-| Project Link | Project Description |
-|---|---|
-| 📺 [Netflix Insights](https://github.com/minhhaole/Netflix-Data-Visualization) | I visualised key insights on a dashboard using PowerBI with Netflix data including top 10 countries consuming the platform, timeline of TV shows and movie released, the top genres and more. The data portrays all the content added on the platform from 2008 to 2021. The purpose of this dataset is to demonstrate my skills to visualize data on Power BI. | 
-
+| Project Link | Tool | Project Description |
+|---|---|---|
+| 📺 [Netflix Insights](https://github.com/minhhaole/Netflix-Data-Visualization) | PowerBI | I visualised key insights on a dashboard using PowerBI with Netflix data including top 10 countries consuming the platform, timeline of TV shows and movie released, the top genres and more. The data portrays all the content added on the platform from 2008 to 2021. The purpose of this dataset is to demonstrate my skills to visualize data on Power BI. | 
+| 💉 [Covid and impact on CAD Stock Price](https://github.com/minhhaole/Covid-Dashboard) | Tableau | I visualised key insights on a dashboard using Tableau with Covid and Canadian Stock Price data including global statistics in Canada, infection rate vs. stock price, % population infected worldwide, vaccination and more. The data is from Jan 1st 2020 to Nov 14 2023. The purpose of this dataset is to demonstrate my skills to visualize data on Tableau Public and relationship Analysis between 2 datasets. | 
 
 ***
