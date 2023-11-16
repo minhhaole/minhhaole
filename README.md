@@ -2,10 +2,10 @@
 
 Welcome to my portfolio, where I document my projects in the data field :) 
 
- ## ⚡ Table of Contents
-- [SQL](#sql)
-- [Data Visualization](#dataviz)
-
+<!-- ## ⚡ Table of Contents
+-- - [SQL](#sql)
+-- - [Data Visualization](#dataviz)
+-->
 # SQL
 
 | Project Link | Concepts | Project Description | 
