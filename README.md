@@ -1,6 +1,6 @@
 # 🔭 Minh-Hao's Portfolio 
 
-Welcome to my portfolio, where I document my projects in the data field :) 
+Welcome to my portfolio, where I document my data projects :) 
 
 <!-- ## ⚡ Table of Contents
 -- - [SQL](#sql)
